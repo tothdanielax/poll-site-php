@@ -1,0 +1,52 @@
+{
+    "63c472d4058ab": {
+        "question": "Example question (radio)",
+        "options": [
+            "radio1",
+            "radio2"
+        ],
+        "deadline": "2023-01-15",
+        "createdAt": "2023-01-14",
+        "isMultiple": false,
+        "answers": {
+            "radio1": 2,
+            "radio2": 0
+        },
+        "voted": [
+            "user"
+        ],
+        "id": "63c472d4058ab"
+    },
+    "63c472db83a25": {
+        "question": "Example question (checkbox)",
+        "options": [
+            "check1",
+            "check2"
+        ],
+        "deadline": "2023-01-15",
+        "createdAt": "2023-01-15",
+        "isMultiple": true,
+        "answers": {
+            "check1": 0,
+            "check2": 0
+        },
+        "voted": [],
+        "id": "63c472db83a25"
+    },
+    "63c472e85a55b": {
+        "question": "Example question (expired)",
+        "options": [
+            "exp1",
+            "exp2"
+        ],
+        "deadline": "2023-01-14",
+        "createdAt": "2023-01-13",
+        "isMultiple": true,
+        "answers": {
+            "exp1": 0,
+            "exp2": 0
+        },
+        "voted": [],
+        "id": "63c472e85a55b"
+    }
+}
